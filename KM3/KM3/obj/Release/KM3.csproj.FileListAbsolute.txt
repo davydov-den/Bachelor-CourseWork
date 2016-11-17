@@ -1,0 +1,54 @@
+C:\Users\Xomys\Desktop\KM3\KM3\bin\Release\KM3.exe.config
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Release\KM3.Form1.resources
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Release\KM3.Properties.Resources.resources
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Release\KM3.csproj.GenerateResource.Cache
+C:\Users\Xomys\Desktop\KM3\KM3\bin\Release\KM3.exe
+C:\Users\Xomys\Desktop\KM3\KM3\bin\Release\KM3.pdb
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Release\KM3.exe
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Release\KM3.pdb
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\bin\Release\KM3.exe.config
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\obj\Release\KM3.exe
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\obj\Release\KM3.pdb
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\bin\Release\KM3.exe
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\bin\Release\KM3.pdb
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\obj\Release\KM3.Form1.resources
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\obj\Release\KM3.Properties.Resources.resources
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\obj\Release\KM3.csproj.GenerateResource.Cache
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\bin\Release\ZedGraph.dll
+C:\Users\Xomys\Desktop\Новая папка (3)\KM3\KM3\obj\Release\KM3.csprojResolveAssemblyReference.cache
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\bin\Release\KM3.exe.config
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\bin\Release\KM3.exe
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\bin\Release\KM3.pdb
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\bin\Release\ZedGraph.dll
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\obj\Release\KM3.Form1.resources
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\obj\Release\KM3.Properties.Resources.resources
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\obj\Release\KM3.csproj.GenerateResource.Cache
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\obj\Release\KM3.exe
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\obj\Release\KM3.pdb
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\24,05,2016\KM3\KM3\obj\Release\KM3.csprojResolveAssemblyReference.cache
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\26,05,2016\KM3\KM3\bin\Release\KM3.exe.config
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\26,05,2016\KM3\KM3\obj\Release\KM3.exe
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\26,05,2016\KM3\KM3\obj\Release\KM3.pdb
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\bin\Release\KM3.exe.config
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\obj\Release\KM3.exe
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\obj\Release\KM3.pdb
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\bin\Release\KM3.exe
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\bin\Release\KM3.pdb
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\bin\Release\ZedGraph.dll
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\obj\Release\KM3.csprojResolveAssemblyReference.cache
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\obj\Release\KM3.Form1.resources
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\obj\Release\KM3.Properties.Resources.resources
+C:\Users\Xomys\Desktop\26,05,2016\KM3\KM3\obj\Release\KM3.csproj.GenerateResource.Cache
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\bin\Release\KM3.exe.config
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\obj\Release\KM3.exe
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\obj\Release\KM3.pdb
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\bin\Release\KM3.exe
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\bin\Release\KM3.pdb
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\bin\Release\ZedGraph.dll
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\obj\Release\KM3.csprojResolveAssemblyReference.cache
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\obj\Release\KM3.Form1.resources
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\obj\Release\KM3.Properties.Resources.resources
+C:\Users\Xomys\Desktop\Диплом, Типо CVS\30,05,2016\KM3\KM3\obj\Release\KM3.csproj.GenerateResource.Cache
+C:\Users\Xomys\Desktop\учеба\Диплом, Типо CVS\30,05,2016\KM3\KM3\bin\Release\KM3.exe.config
+C:\Users\Xomys\Desktop\учеба\Диплом, Типо CVS\30,05,2016\KM3\KM3\obj\Release\KM3.exe
+C:\Users\Xomys\Desktop\учеба\Диплом, Типо CVS\30,05,2016\KM3\KM3\obj\Release\KM3.pdb
