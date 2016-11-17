@@ -1,0 +1,21 @@
+c:\users\d.davydov.2012\documents\visual studio 2013\Projects\KM3\KM3\bin\Debug\KM3.exe.config
+c:\users\d.davydov.2012\documents\visual studio 2013\Projects\KM3\KM3\obj\Debug\KM3.csprojResolveAssemblyReference.cache
+c:\users\d.davydov.2012\documents\visual studio 2013\Projects\KM3\KM3\obj\Debug\KM3.Properties.Resources.resources
+c:\users\d.davydov.2012\documents\visual studio 2013\Projects\KM3\KM3\obj\Debug\KM3.csproj.GenerateResource.Cache
+C:\Users\Xomys\Desktop\KM3\KM3\bin\Debug\KM3.exe.config
+C:\Users\Xomys\Desktop\KM3\KM3\bin\Debug\KM3.exe
+C:\Users\Xomys\Desktop\KM3\KM3\bin\Debug\KM3.pdb
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Debug\KM3.Form1.resources
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Debug\KM3.Properties.Resources.resources
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Debug\KM3.csproj.GenerateResource.Cache
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Debug\KM3.exe
+C:\Users\Xomys\Desktop\KM3\KM3\obj\Debug\KM3.pdb
+C:\Users\d.davydov.2012\Downloads\KM3\KM3\bin\Debug\KM3.exe.config
+C:\Users\d.davydov.2012\Downloads\KM3\KM3\obj\Debug\KM3.exe
+C:\Users\d.davydov.2012\Downloads\KM3\KM3\obj\Debug\KM3.pdb
+C:\Users\d.davydov.2012\Downloads\KM3\KM3\bin\Debug\KM3.exe
+C:\Users\d.davydov.2012\Downloads\KM3\KM3\bin\Debug\KM3.pdb
+C:\Users\d.davydov.2012\Downloads\KM3\KM3\obj\Debug\KM3.csprojResolveAssemblyReference.cache
+C:\Users\d.davydov.2012\Downloads\KM3\KM3\obj\Debug\KM3.Form1.resources
+C:\Users\d.davydov.2012\Downloads\KM3\KM3\obj\Debug\KM3.Properties.Resources.resources
+C:\Users\d.davydov.2012\Downloads\KM3\KM3\obj\Debug\KM3.csproj.GenerateResource.Cache
