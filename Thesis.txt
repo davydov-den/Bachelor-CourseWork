@@ -1,0 +1,13 @@
+The main goal of work is to try to understand what causes optical noise in the image and add the typical noise to the images in this sample. 
+Various types of interference was examined and generated.  By adding a noise to the sample image, we obtained quality improvement of the recognized character in real images. 
+To do this work various algorithms for image matching and statistical analysis of information in the image were reviewed. 
+Various correlation methods were used for symbols comparison. The most famous methods are based on the calculation of Pearson correlation coefficient.  
+The correlation methods used were as follows:
+•	The criterion correlation of Pearson;
+•	The difference between the average values of the intensities of the pixels corresponding to the character inside the benchmark and beyond;
+•	Pixel-by-pixel comparison of the test image with the standard and the calculation of the number of matching corresponding pixels;
+•	The criterion of correlation based on Euclidean distance.
+In the course of this work, software for download, analysis and recognition of printed characters on generated and real images was developed. 
+The program can generate different interference. By the end of developing the program, it was trained to add noise to the sample image that helps the recognition algorithm to improve the quality of work. 
+Our program in some cases has better quality of recognition of the characters, than  some expensive programs. 
+This implies that the used methods can significantly improve the recognition quality.
